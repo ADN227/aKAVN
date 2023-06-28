@@ -25,7 +25,7 @@ Para usar cada máquina virtual, debemos conectarnos a ella con una clave SSH. D
 
 - Crear una carpeta para la máquina virtual
         
-        mkdir ~/.ssh/azureuser ; mkdir ~/.ssh/azuresuser
+        mkdir ~/.ssh/azureuser 
 
 - Dar acceso al archivo de clave SSH para lectura
 
@@ -33,7 +33,7 @@ Para usar cada máquina virtual, debemos conectarnos a ella con una clave SSH. D
 
 - Acceder a la carpeta de la máquina virtual
 
-        ~/.ssh/azureuser
+        cd ~/.ssh/azureuser
 
 - Acceder a la carpeta de la máquina virtual desde SSH
 
